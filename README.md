@@ -1,4 +1,3 @@
-- Hi, I’m @Gibean, a self taught digital artist!
-- I’m interested in becoming a Professional and Freelancer artist ❤
-- I’m currently learning, separately from college, about graphic desing and illustration.
-- 📫 How to reach me: You can look for my username "Givilovelybean / givilovelybean" in different social medias such as Instagram and Twitter
+Begginer programmer
+Informatics student
+(Also a semi-professional digital artist and freelacer)
